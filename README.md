@@ -1,6 +1,6 @@
 # Linear Regression for single feature
 
-These codes are programmed in octave language
+These codes are programmed in octave/matlab language
 
 computeCost.m is the program to compute the cost function
 
